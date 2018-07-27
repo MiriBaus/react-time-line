@@ -31,7 +31,7 @@
 
 .container ul{
   text-align: left;
-  
+  margin-top: 100px;
   margin-left: 25%;
   list-style: none;
   border-left: 2px dashed black;
@@ -46,7 +46,5 @@
   display: block;
   margin-left: 300px;
   margin-right: 300px;
-
-  background-color: rgb(187, 128, 128);
   font-weight: bold;
 }
